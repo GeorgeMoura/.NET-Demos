@@ -1,0 +1,13 @@
+C:\Users\Pichau\Documents\Projetos\Curso C#\EmployeeHerançaPolimorfismo\EmployeeHerançaPolimorfismo\bin\Debug\netcoreapp3.1\EmployeeHerançaPolimorfismo.exe
+C:\Users\Pichau\Documents\Projetos\Curso C#\EmployeeHerançaPolimorfismo\EmployeeHerançaPolimorfismo\bin\Debug\netcoreapp3.1\EmployeeHerançaPolimorfismo.deps.json
+C:\Users\Pichau\Documents\Projetos\Curso C#\EmployeeHerançaPolimorfismo\EmployeeHerançaPolimorfismo\bin\Debug\netcoreapp3.1\EmployeeHerançaPolimorfismo.runtimeconfig.json
+C:\Users\Pichau\Documents\Projetos\Curso C#\EmployeeHerançaPolimorfismo\EmployeeHerançaPolimorfismo\bin\Debug\netcoreapp3.1\EmployeeHerançaPolimorfismo.runtimeconfig.dev.json
+C:\Users\Pichau\Documents\Projetos\Curso C#\EmployeeHerançaPolimorfismo\EmployeeHerançaPolimorfismo\bin\Debug\netcoreapp3.1\EmployeeHerançaPolimorfismo.dll
+C:\Users\Pichau\Documents\Projetos\Curso C#\EmployeeHerançaPolimorfismo\EmployeeHerançaPolimorfismo\bin\Debug\netcoreapp3.1\EmployeeHerançaPolimorfismo.pdb
+C:\Users\Pichau\Documents\Projetos\Curso C#\EmployeeHerançaPolimorfismo\EmployeeHerançaPolimorfismo\obj\Debug\netcoreapp3.1\EmployeeHerançaPolimorfismo.csprojAssemblyReference.cache
+C:\Users\Pichau\Documents\Projetos\Curso C#\EmployeeHerançaPolimorfismo\EmployeeHerançaPolimorfismo\obj\Debug\netcoreapp3.1\EmployeeHerançaPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\Projetos\Curso C#\EmployeeHerançaPolimorfismo\EmployeeHerançaPolimorfismo\obj\Debug\netcoreapp3.1\EmployeeHerançaPolimorfismo.AssemblyInfo.cs
+C:\Users\Pichau\Documents\Projetos\Curso C#\EmployeeHerançaPolimorfismo\EmployeeHerançaPolimorfismo\obj\Debug\netcoreapp3.1\EmployeeHerançaPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\Projetos\Curso C#\EmployeeHerançaPolimorfismo\EmployeeHerançaPolimorfismo\obj\Debug\netcoreapp3.1\EmployeeHerançaPolimorfismo.dll
+C:\Users\Pichau\Documents\Projetos\Curso C#\EmployeeHerançaPolimorfismo\EmployeeHerançaPolimorfismo\obj\Debug\netcoreapp3.1\EmployeeHerançaPolimorfismo.pdb
+C:\Users\Pichau\Documents\Projetos\Curso C#\EmployeeHerançaPolimorfismo\EmployeeHerançaPolimorfismo\obj\Debug\netcoreapp3.1\EmployeeHerançaPolimorfismo.genruntimeconfig.cache

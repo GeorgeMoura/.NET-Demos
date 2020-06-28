@@ -1,0 +1,4 @@
+George Moura,georgenmoura@gmail.com,5300.00
+Elcius Ferreira,elciusferreira@gmail.com,5000.00
+Gabriel Gonçalves,gabrielgoncalves@gmail.com,4000.00
+Natanael Soares,natanaelsoares@gmail.com,4000.00

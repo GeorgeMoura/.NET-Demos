@@ -1,0 +1,13 @@
+C:\Users\Pichau\Documents\Projetos\Curso C#\ContractInterfaceUsage\ContractInterfaceUsage\bin\Debug\netcoreapp3.1\ContractInterfaceUsage.exe
+C:\Users\Pichau\Documents\Projetos\Curso C#\ContractInterfaceUsage\ContractInterfaceUsage\bin\Debug\netcoreapp3.1\ContractInterfaceUsage.deps.json
+C:\Users\Pichau\Documents\Projetos\Curso C#\ContractInterfaceUsage\ContractInterfaceUsage\bin\Debug\netcoreapp3.1\ContractInterfaceUsage.runtimeconfig.json
+C:\Users\Pichau\Documents\Projetos\Curso C#\ContractInterfaceUsage\ContractInterfaceUsage\bin\Debug\netcoreapp3.1\ContractInterfaceUsage.runtimeconfig.dev.json
+C:\Users\Pichau\Documents\Projetos\Curso C#\ContractInterfaceUsage\ContractInterfaceUsage\bin\Debug\netcoreapp3.1\ContractInterfaceUsage.dll
+C:\Users\Pichau\Documents\Projetos\Curso C#\ContractInterfaceUsage\ContractInterfaceUsage\bin\Debug\netcoreapp3.1\ContractInterfaceUsage.pdb
+C:\Users\Pichau\Documents\Projetos\Curso C#\ContractInterfaceUsage\ContractInterfaceUsage\obj\Debug\netcoreapp3.1\ContractInterfaceUsage.csprojAssemblyReference.cache
+C:\Users\Pichau\Documents\Projetos\Curso C#\ContractInterfaceUsage\ContractInterfaceUsage\obj\Debug\netcoreapp3.1\ContractInterfaceUsage.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\Projetos\Curso C#\ContractInterfaceUsage\ContractInterfaceUsage\obj\Debug\netcoreapp3.1\ContractInterfaceUsage.AssemblyInfo.cs
+C:\Users\Pichau\Documents\Projetos\Curso C#\ContractInterfaceUsage\ContractInterfaceUsage\obj\Debug\netcoreapp3.1\ContractInterfaceUsage.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\Projetos\Curso C#\ContractInterfaceUsage\ContractInterfaceUsage\obj\Debug\netcoreapp3.1\ContractInterfaceUsage.dll
+C:\Users\Pichau\Documents\Projetos\Curso C#\ContractInterfaceUsage\ContractInterfaceUsage\obj\Debug\netcoreapp3.1\ContractInterfaceUsage.pdb
+C:\Users\Pichau\Documents\Projetos\Curso C#\ContractInterfaceUsage\ContractInterfaceUsage\obj\Debug\netcoreapp3.1\ContractInterfaceUsage.genruntimeconfig.cache

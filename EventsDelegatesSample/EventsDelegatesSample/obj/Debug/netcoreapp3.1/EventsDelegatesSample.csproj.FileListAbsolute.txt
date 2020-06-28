@@ -1,0 +1,13 @@
+C:\Users\Pichau\Documents\Projetos\Curso C#\EventsDelegatesSample\EventsDelegatesSample\bin\Debug\netcoreapp3.1\EventsDelegatesSample.exe
+C:\Users\Pichau\Documents\Projetos\Curso C#\EventsDelegatesSample\EventsDelegatesSample\bin\Debug\netcoreapp3.1\EventsDelegatesSample.deps.json
+C:\Users\Pichau\Documents\Projetos\Curso C#\EventsDelegatesSample\EventsDelegatesSample\bin\Debug\netcoreapp3.1\EventsDelegatesSample.runtimeconfig.json
+C:\Users\Pichau\Documents\Projetos\Curso C#\EventsDelegatesSample\EventsDelegatesSample\bin\Debug\netcoreapp3.1\EventsDelegatesSample.runtimeconfig.dev.json
+C:\Users\Pichau\Documents\Projetos\Curso C#\EventsDelegatesSample\EventsDelegatesSample\bin\Debug\netcoreapp3.1\EventsDelegatesSample.dll
+C:\Users\Pichau\Documents\Projetos\Curso C#\EventsDelegatesSample\EventsDelegatesSample\bin\Debug\netcoreapp3.1\EventsDelegatesSample.pdb
+C:\Users\Pichau\Documents\Projetos\Curso C#\EventsDelegatesSample\EventsDelegatesSample\obj\Debug\netcoreapp3.1\EventsDelegatesSample.csprojAssemblyReference.cache
+C:\Users\Pichau\Documents\Projetos\Curso C#\EventsDelegatesSample\EventsDelegatesSample\obj\Debug\netcoreapp3.1\EventsDelegatesSample.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\Projetos\Curso C#\EventsDelegatesSample\EventsDelegatesSample\obj\Debug\netcoreapp3.1\EventsDelegatesSample.AssemblyInfo.cs
+C:\Users\Pichau\Documents\Projetos\Curso C#\EventsDelegatesSample\EventsDelegatesSample\obj\Debug\netcoreapp3.1\EventsDelegatesSample.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\Projetos\Curso C#\EventsDelegatesSample\EventsDelegatesSample\obj\Debug\netcoreapp3.1\EventsDelegatesSample.dll
+C:\Users\Pichau\Documents\Projetos\Curso C#\EventsDelegatesSample\EventsDelegatesSample\obj\Debug\netcoreapp3.1\EventsDelegatesSample.pdb
+C:\Users\Pichau\Documents\Projetos\Curso C#\EventsDelegatesSample\EventsDelegatesSample\obj\Debug\netcoreapp3.1\EventsDelegatesSample.genruntimeconfig.cache
